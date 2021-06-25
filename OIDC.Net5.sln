@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31402.337
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server.IdentityProvider", "Server.IdentityProvider\Server.IdentityProvider.csproj", "{8E36FBF7-6A03-40D2-8F88-A6AF7E567910}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server.API", "..\Server.API\Server.API.csproj", "{6AA55A3F-226A-4C39-9353-804FC655D27A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server.API", "Server.API\Server.API.csproj", "{6AA55A3F-226A-4C39-9353-804FC655D27A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
